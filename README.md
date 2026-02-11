@@ -1,5 +1,5 @@
 # test-laravel-setup
-Reference repository for setting up a React + Laravel based Application with a MySQL Database.
+Reference repository for a React + Laravel based Application setup with MySQL as the RDBMS.
 
 ## Prerequisites
 - Check for PHP and Composer Installation: 
