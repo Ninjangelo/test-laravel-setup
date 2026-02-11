@@ -70,7 +70,7 @@ Following the Breeze Installer, for the Breeze Stack select the **React with Ine
 From the root folder of your application you will find a **.env** file.
 <br>
 <br>
-Open and edit the the DB portion to match your database credentials:
+Open and edit the DB portion to match your database credentials:
 ```console
 DB_CONNECTION=mysql
 DB_HOST=<YOUR_DB_IP_ADDRESS>
